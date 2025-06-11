@@ -21,7 +21,6 @@ This task defines a `Cuboid` class to represent a rectangular 3D box. It include
 
 ## How to Compile and Run
 
-```bash
 g++ main.cpp -o cuboid
 ./cuboid
 
