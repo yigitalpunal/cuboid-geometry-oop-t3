@@ -1,6 +1,5 @@
 ## 📁 Task 3 – Cuboid
 
-```markdown
 # Task 3 – Cuboid Class in C++
 
 ## Description
